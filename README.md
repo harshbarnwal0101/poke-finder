@@ -28,7 +28,7 @@ A responsive, interactive React app that allows users to search and explore Pok�
 <!--
 ### 🔹 Home Page
 
-![Home Page](images/home.png)
+![Screenshot](images/home.png)
 
 ### 🔹 Pokémon Detail View
 
